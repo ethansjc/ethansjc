@@ -7,8 +7,8 @@
 * 💻 Experienced in building Web Apps
 * 📍  Tech Nerd in Toronto, Canada
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-(mailto:ethansjcheong@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethansjcheong@gmail.com)
+
 
 <a href="https://app.daily.dev/ethansjc">
 <img src="https://github.com/ethansjc/ethansjc/blob/main/devcard.svg" width="400px" alt="Ethan's Dev Card"/></a>
