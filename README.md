@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethansanjuancheong/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethansjc/)
 ###
-<a href="https://app.daily.dev/ethansjc"><<img src="https://github.com/ethansjc/ethansjc/blob/main/devcard.svg" width="400px" alt="Ethan's Dev Card"/></a></a>
+<a href="https://app.daily.dev/ethansjc"><img src="https://github.com/ethansjc/ethansjc/blob/main/devcard.svg" width="400px" alt="Ethan's Dev Card"/></a></a>
 
 <!--
 **ethansjc/ethansjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
