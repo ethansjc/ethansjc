@@ -8,7 +8,7 @@
 * 📍  Tech Nerd in Toronto, Canada
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethansjcheong@gmail.com)
-
+[!LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethansanjuancheong/)
 
 <a href="https://app.daily.dev/ethansjc">
 <img src="https://github.com/ethansjc/ethansjc/blob/main/devcard.svg" width="400px" alt="Ethan's Dev Card"/></a>
