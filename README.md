@@ -8,7 +8,7 @@
 ## What am I good at?
 
 ## What am I reading?
-<a href="https://app.daily.dev/ethansjc"><img src="https://github.com/ethansjc/ethansjc/devcard.svg" width="400" alt="Ethan's Dev Card"/></a>
+<a href="https://app.daily.dev/ethansjc"><img src="https://api.daily.dev/devcards/f0687523e0644319b862793c60d377b7.png?r=ywc" width="400" alt="Ethan's Dev Card"/></a>
 <!--
 **ethansjc/ethansjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
