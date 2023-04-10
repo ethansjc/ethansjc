@@ -1,10 +1,12 @@
 # Hi there! 👋
 ## Who am I?
-* I am a tech nerd in Toronto, Canada
-* Passionate about create apps and building web stuff
-* I have experience in web APPs
-* Favourite tech that I've used is Express because it was my first one
-* Latest obsession is Self learning with TOP and Cloud 
+* 🎓 Advanced Diploma (OCAD) in Software Engineering Technology from Centennial College
+* 🏢 Programming Instructor
+* 👩‍💻 Aspiring Developer in Web and Mobile
+* ✨ Passionate about tech
+* 😄 ENFJ-A personality
+* 💻 Experienced in building Web Apps
+* 📍  Tech Nerd in Toronto, Canada
 ## What am I good at?
 
 ## What am I reading?
