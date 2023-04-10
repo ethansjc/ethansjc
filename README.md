@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there! 👋
 ## Who am I?
 * I am a tech nerd in Toronto, Canada
 * Passionate about create apps and building web stuff
 * I have experience in web APPs
 * Favourite tech that I've used is Express because it was my first one
 * Latest obsession is Self learning with TOP and Cloud 
+## What am I good at?
+
+## What am I reading?
+<a href="https://app.daily.dev/ethansjc"><img src="https://api.daily.dev/devcards/f0687523e0644319b862793c60d377b7.png?r=nrl" width="400" alt="Ethan's Dev Card"/></a>
 <!--
 **ethansjc/ethansjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
