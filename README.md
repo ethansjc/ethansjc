@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+## Who am I?
+* I am a tech nerd in Toronto, Canada
+* Passionate about create apps and building web stuff
+* I have experience in web APPs
+* Favourite tech that I've used is Express because it was my first one
+* Latest obsession is Self learning with TOP and Cloud 
 <!--
 **ethansjc/ethansjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
