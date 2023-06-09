@@ -1,6 +1,6 @@
 # Hi there! I'm Ethan:
 * 🎓 Advanced Diploma (OCAD) in Software Engineering Technology from Centennial College
-* 🏢 Programming Instructor
+* ☁ Learning Cloud Computing
 * 👩‍💻 Aspiring Developer in Web and Mobile
 * ✨ Passionate about tech
 * 😄 ENFJ-A personality
