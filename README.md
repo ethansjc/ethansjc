@@ -84,18 +84,18 @@
 </a>  
 </div>  
   
-
+<!--
 <br/>  
 
 
 ## Github Stats  
-<!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ethansjc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<div align="center"> -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ethansjc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"> 
 
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=ethansjc&theme=transparent)
 </div>
 <br/>  
-
+-->
 
