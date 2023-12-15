@@ -6,7 +6,7 @@
 # <div align="center">I'm Ethan San Juan-Cheong</div>  
   
 
-- 🔭 I’m currently working on a Fitness App  
+- 🔭 I’m currently working on a NEXT.JS Apps
   
 
 - 🌱 I’m currently learning AWS  
